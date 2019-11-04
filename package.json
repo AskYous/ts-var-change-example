@@ -1,0 +1,22 @@
+{
+  "name": "flexo-luis",
+  "version": "1.0.0",
+  "description": "TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://FlexSPTeam@dev.azure.com/FlexSPTeam/flex-o/_git/flexo-luis"
+  },
+  "author": "Yousef Shanawany <Yousef.Shanawany@flex.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^11.9.5",
+    "@types/request": "^2.48.1",
+    "@types/request-promise": "^4.1.42",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
